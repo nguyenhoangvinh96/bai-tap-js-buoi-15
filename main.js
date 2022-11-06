@@ -1,3 +1,5 @@
+// Bài 1: Quản lý tuyển sinh
+
 document.getElementById("btnResult").onclick = function () {
     var Score1 = document.getElementById("inputScore1").value * 1;
     var area = document.getElementById("selLocation").value * 1;
